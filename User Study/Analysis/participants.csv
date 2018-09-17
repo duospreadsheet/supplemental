@@ -1,0 +1,17 @@
+Subject,age,gender,program,native speaker of English?,fully fluent in English?,experience level in data analysis,which interface first?
+1,22,Male,MS CS,No,Fully Fluent,6,Natural
+2,23,Female,PhD CS,Yes,Fully Fluent,6,Natural
+3,29,Female,PhD HCC,No,Fully Fluent,5,Natural
+4,33,Female,PhD HCC,No,Fully Fluent,5,Sloppy
+5,25,Male,PhD CS,No,Fully Fluent,4,Sloppy
+6,27,Female,MS HCI,Yes,Fully Fluent,4,Sloppy
+7,25,Female,PhD CS,No,Fully Fluent,6,Sloppy
+8,31,Male,PhD HCC,Yes,Fully Fluent,4,Natural
+9,22,Male,PhD CS,Yes,Fully Fluent,7,Natural
+10,30,Male,MS HCI,Yes,Fully Fluent,2,Sloppy
+11,31,Male,MS CS,Yes,Fully Fluent,6,Natural
+12,22,Male,MS CS,Yes,Fully Fluent,6,Sloppy
+13,23,Female,MS CS,Yes,Fully Fluent,4,Natural
+14,32,Male,PhD HCC,Yes,Fully Fluent,6,Sloppy
+15,28,Female,PhD HCC,Yes,Fully Fluent,5,Sloppy
+16,24,Male,MS CS,Yes,Fully Fluent,2,Natural
