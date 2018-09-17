@@ -32,7 +32,7 @@ Here is the codebook that contains the definitions of codes: [Link](https://gith
 
 #### Scenarios and Corresponding Sources
 
-Here are the scenarios for soliciting pairwise comparison questions from crowd workers: [Link](https://github.com/duospreadsheet/supplemental/blob/master/Taxonomy/Scenarios%20for%20soliciting%20questions%20from%20crowdworkers.pdf)
+Here are the scenarios for soliciting pairwise comparison questions from crowd workers: [Link](https://github.com/duospreadsheet/supplemental/blob/master/Taxonomy/scenarios%20for%20soliciting%20questions%20from%20crowdworkers.pdf)
 
 #### Code Assigned by Coders
 
