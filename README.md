@@ -61,7 +61,7 @@ This version allows users to specify pairwise comparison rules using point and c
 
 <img src="https://s3.amazonaws.com/github-duo/gui_base.png" width="230"/>
 
-To enter inclusion and exclusion rules, users are required to use the edit button to open an editor. The complexity of the interface caused confusion to our pilot study participants.
+To enter inclusion and exclusion rules, users are required to use the edit button to open an editor. The complexity of the interface caused confusion to the participants in an informal usability study.
 
 <img src="https://s3.amazonaws.com/github-duo/gui_edit.png" width="230"/>
 
@@ -73,7 +73,7 @@ This version again allows users to specify pairwise comparison rules using point
 
 <img src="https://s3.amazonaws.com/github-duo/gui_updated.png" width="230"/>
 
-We compared this interface with the natural language interface in an early pilot and the participant commented that the GUI helped *"articulating"* and *"think about"* pairwise comparison questions but the interface was still too complicated -- the interface complexity counteracted with the ease of articulation. This finding impelled us to improve the design and eventually resulted in the sloppy rules.
+We compared this interface with the natural language interface in an informal usability study and the participant commented that the GUI helped *"articulating"* and *"think about"* pairwise comparison questions but the interface was still too complicated -- the interface complexity counteracted with the ease of articulation. This finding impelled us to improve the design and eventually resulted in the sloppy rules.
 
 #### Logistic Regression Models for Classifying Attributes
 
