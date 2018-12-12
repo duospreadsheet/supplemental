@@ -13,7 +13,7 @@ pref.easy = read.csv("difficult data_sign.csv")
 difficult = SIGN.test(pref.easy$Pref, md = 4)
 
 # sign test (very difficult)
-pref.easy = read.csv("very difficult data_mann.csv")
+pref.easy = read.csv("very difficult data_sign.csv")
 very.difficult = SIGN.test(pref.easy$Pref, md = 4)
 
 # adjust p value
