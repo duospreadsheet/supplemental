@@ -48,7 +48,7 @@ Here are the summary statistics and distributions of the codes: [Link](https://g
 
 #### Final Prototype (Sloppy Rules)
 
-Video introducing various aspects of the interface: [Link](https://vimeo.com/287881770)  
+Video introducing various aspects of the interface: [Link](https://youtu.be/zXb8blGqOUQ)  
 Final prototype (only tested in Chrome): [Link](https://duospreadsheet.github.io/sloppy_rules_final/)
 
 The system provides the sloppy rule menu that allows users to specify pairwise comparison rules using the sloppy syntax.
