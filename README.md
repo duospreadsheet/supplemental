@@ -1,4 +1,4 @@
-## Supplemental Materials for "Comparing Apples and Oranges: Taxonomy and Design of Pairwise Comparisons for Tabular Data"
+## Supplemental Materials for "Comparing Apples and Oranges: Taxonomy and Design of Pairwise Comparisons within Tabular Data"
 
 ### Contents
 
