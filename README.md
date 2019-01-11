@@ -125,7 +125,7 @@ Here, we describe how the natural language interface was used during the user st
 
 <img src="https://s3.amazonaws.com/github-duo/load.png" width="300"/>
 
-The participant can starting working on the three practice tasks using the natural language interface. The following is the first practice task.
+The participant then start working on the three practice tasks using the natural language interface. The following is the first practice task.
 
 <img src="https://s3.amazonaws.com/github-duo/task.png" width="400"/>
 
@@ -137,7 +137,7 @@ If something are missing from the query, the system shows its interpretation to 
 
 <img src="https://s3.amazonaws.com/github-duo/interpret.png" width="200"/>
 
-Similarly, if a participant works with test tasks (set 1) using the natural language interface, the experimenter first loads "[oneToOneSetOne.csv](https://github.com/duospreadsheet/duospreadsheet.github.io/blob/master/natural_language_user_study/static/csv/oneToOneSetOne.csv)". When a participant works with test tasks (set 2) using the natural language interface, the experimenter first loads "[oneToOneSetTwo.csv](https://github.com/duospreadsheet/duospreadsheet.github.io/blob/master/natural_language_user_study/static/csv/oneToOneSetTwo.csv)".
+Similarly, if a participant works on test tasks (set 1) using the natural language interface, the experimenter first loads "[oneToOneSetOne.csv](https://github.com/duospreadsheet/duospreadsheet.github.io/blob/master/natural_language_user_study/static/csv/oneToOneSetOne.csv)". When a participant works on test tasks (set 2) using the natural language interface, the experimenter first loads "[oneToOneSetTwo.csv](https://github.com/duospreadsheet/duospreadsheet.github.io/blob/master/natural_language_user_study/static/csv/oneToOneSetTwo.csv)".
 
 Although the natural language interface is highly limited, it serves the purpose of the user study.
 
